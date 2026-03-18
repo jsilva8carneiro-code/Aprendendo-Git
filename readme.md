@@ -1,3 +1,5 @@
 olá estou aprendendo git
 
-fala aí, irmao
+fala aí, irmao 
+
+tá tranquilo irmão 
